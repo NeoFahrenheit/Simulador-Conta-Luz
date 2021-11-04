@@ -1,0 +1,275 @@
+[
+    {
+        "device": "Rádio",
+        "model": "",
+        "power": "12",
+        "qtd": "1",
+        "time": "12"
+    },
+    {
+        "device": "Aparelho de som",
+        "model": "3 em 1",
+        "power": "200",
+        "qtd": "1",
+        "time": "1"
+    },
+    {
+        "device": "Ar Condicionado",
+        "model": "7500 BTU",
+        "power": "950",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Ar Condicionado",
+        "model": "12000 BTU",
+        "power": "1400",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Aspirador de Pó",
+        "model": "",
+        "power": "1000",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Boiler Elétrico",
+        "model": "",
+        "power": "900",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Chuveiro",
+        "model": "Verão ",
+        "power": "3000",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Chuveiro",
+        "model": "Inverno",
+        "power": "5500",
+        "qtd": "1",
+        "time": "0.25"
+    },
+    {
+        "device": "Computador de Mesa",
+        "model": "",
+        "power": "350",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Notebook",
+        "model": "",
+        "power": "65",
+        "qtd": "1",
+        "time": "20"
+    },
+    {
+        "device": "Aquecedor de Ambiente",
+        "model": "",
+        "power": "1500",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Ferro de Passar",
+        "model": "",
+        "power": "1000",
+        "qtd": "1",
+        "time": "0.001"
+    },
+    {
+        "device": "Freezer",
+        "model": "Pequeno (Verão)",
+        "power": "150",
+        "qtd": "",
+        "time": "24"
+    },
+    {
+        "device": "Freezer",
+        "model": "Pequeno (Inverno)",
+        "power": "150",
+        "qtd": "",
+        "time": "24"
+    },
+    {
+        "device": "Fritadeira",
+        "model": "",
+        "power": "1200",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Lâmpada",
+        "model": "Incandescente",
+        "power": "100",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Lâmpada",
+        "model": "Flourescente",
+        "power": "34",
+        "qtd": "2",
+        "time": "0.45"
+    },
+    {
+        "device": "Lâmpada",
+        "model": "LED",
+        "power": "12",
+        "qtd": "8",
+        "time": "4"
+    },
+    {
+        "device": "Máquina de Lavar Pratos",
+        "model": "Pequena",
+        "power": "1500",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Máquina de Lavar Roupas",
+        "model": "Água Fria",
+        "power": "600",
+        "qtd": "1",
+        "time": "0.3"
+    },
+    {
+        "device": "Máquina de Lavar Roupas",
+        "model": "Água Quente",
+        "power": "1500",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Lava Jato",
+        "model": "",
+        "power": "350",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Microondas",
+        "model": "",
+        "power": "1150",
+        "qtd": "1",
+        "time": "0.15"
+    },
+    {
+        "device": "Geladeira Simples",
+        "model": "Verão ",
+        "power": "100",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Geladeira Simples",
+        "model": "Inverno",
+        "power": "100",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Geladeira Duplex",
+        "model": "Verão ",
+        "power": "200",
+        "qtd": "",
+        "time": "24"
+    },
+    {
+        "device": "Geladeira Duplex",
+        "model": "Inverno",
+        "power": "200",
+        "qtd": "1",
+        "time": "24"
+    },
+    {
+        "device": "Secadora de Roupas",
+        "model": "",
+        "power": "3500",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Torneira Elétrica",
+        "model": "",
+        "power": "3500",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Televisão",
+        "model": "",
+        "power": "150",
+        "qtd": "1",
+        "time": "10"
+    },
+    {
+        "device": "Ventilador de Teto",
+        "model": "",
+        "power": "200",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Ventilador de Mesa",
+        "model": "",
+        "power": "100",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Carregador de celular",
+        "model": "",
+        "power": "12",
+        "qtd": "3",
+        "time": "5"
+    },
+    {
+        "device": "Torradeira",
+        "model": "",
+        "power": "640",
+        "qtd": "1",
+        "time": "0.01"
+    },
+    {
+        "device": "Liquidificador",
+        "model": "",
+        "power": "800",
+        "qtd": "1",
+        "time": "0.01"
+    },
+    {
+        "device": "Forno Elétrico",
+        "model": "",
+        "power": "5000",
+        "qtd": "1",
+        "time": "0.01"
+    },
+    {
+        "device": "Secador de Cabelo",
+        "model": "",
+        "power": "1300",
+        "qtd": "1",
+        "time": "0.01"
+    },
+    {
+        "device": "Cafeteira",
+        "model": "",
+        "power": "300",
+        "qtd": "",
+        "time": ""
+    },
+    {
+        "device": "Roteador Wi-Fi",
+        "model": "",
+        "power": "7",
+        "qtd": "2",
+        "time": "24"
+    }
+]
